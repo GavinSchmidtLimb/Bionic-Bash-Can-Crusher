@@ -7,12 +7,6 @@
 			"files": [
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/Levels/MainLevels_HLOD0_Instancing.uasset",
-				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevels/9/B7/1YEDNXNPKKVQWW4QYAVP8Z.uasset",
-				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevels/5/KO/TV3VDKN9B65TDX082VVMW6.uasset",
-				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevels/9/63/WGJKFU12A0JISYJUCZJIMA.uasset",
-				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevels/A/HA/Z4SLJJN5HPAQWNUW9Q4MDZ.uasset",
-				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevels/0/M9/T9Y1SFMWR5RQ2XNZAH0WMF.uasset",
-				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevels/0/FT/ZNVCGY1ZNUBPPETYSFGMJI.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevels/E/CV/PML1HEHWOT7ZHXJAGWD6R9.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevels/0/6H/6CFQ9OZZZVHQ6FXU5HQG4E.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevels/2/ZY/LO4VHS1O8ISNLRNV7SIX51.uasset",
@@ -22,7 +16,6 @@
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevels/E/ON/DEC732FSQL3O2H3PYH1S4E.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevels/A/ZQ/U8T1W8ASQ7SSR7JL0CT10R.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevels/9/HR/G62MO57GUL6WP1KNTHVW1F.uasset",
-				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/Levels/MainLevels.umap",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/9/T0/0S833X13PTU82PVXJ441HA.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/B/BB/QNN58VM8HGJD5UZ07PDQUM.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/9/9W/O29SRUDRRYWG4DPPA79IXU.uasset",
@@ -32,7 +25,6 @@
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/A/91/FXKIKIAX02HCJ3OZYD5CAW.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/3/9M/1DQO6NG6DIE3P2NJAAY65B.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/7/U4/NWFJG8J56SPZYEWU9YNVHU.uasset",
-				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/3/7W/LS9ME7JLGP079LVLH7T1ZL.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevel/3/WW/K6VIMPL2UKV83YVX08CJO5.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevel/6/27/WAAQ8Q4CLGBQZ1861I0KQF.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevel/A/PF/N66XWO20MPG9PE04VJEEQB.uasset",
@@ -48,7 +40,20 @@
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/C/LY/RWPK271N0RD3XFNKV9Z8RE.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/1/5S/LJ3WGNTI4Y371P9X5ZCCIR.uasset",
 				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/2/78/H60VF4NHUVLWCBVVLJQW1V.uasset",
-				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/5/VD/3OWWZS4ILXTAQZJB3HWS0H.uasset"
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/5/VD/3OWWZS4ILXTAQZJB3HWS0H.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/ObjectPool/BP_PooledCan.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/ObjectPool/BP_CanPool.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/ObjectPool/BP_Can.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/Blueprints/BP_CanCrusherPlayer.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/Blueprints/BP_CanCrusherGamemode.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevels/9/B7/1YEDNXNPKKVQWW4QYAVP8Z.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevels/5/KO/TV3VDKN9B65TDX082VVMW6.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevels/9/63/WGJKFU12A0JISYJUCZJIMA.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevels/A/HA/Z4SLJJN5HPAQWNUW9Q4MDZ.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevels/0/M9/T9Y1SFMWR5RQ2XNZAH0WMF.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalObjects__/Levels/MainLevels/0/FT/ZNVCGY1ZNUBPPETYSFGMJI.uasset",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/Levels/MainLevels.umap",
+				"C:/Users/Conta/OneDrive/Documents/GitHub/Bionic-Bash-Can-Crusher/Can_Crusher/Content/__ExternalActors__/Levels/MainLevel/3/7W/LS9ME7JLGP079LVLH7T1ZL.uasset"
 			]
 		}
 	]

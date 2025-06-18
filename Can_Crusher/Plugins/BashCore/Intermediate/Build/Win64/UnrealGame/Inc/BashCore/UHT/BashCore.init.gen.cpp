@@ -23,13 +23,13 @@ void EmptyLinkFunctionForGeneratedCodeBashCore_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xA7EC4DBB,
-				0xA3896AB0,
-				METADATA_PARAMS(0, nullptr)
+				0xCA7EEF81,
+				0x77B6FB77,
+				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_BashCore.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_BashCore.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_BashCore(Z_Construct_UPackage__Script_BashCore, TEXT("/Script/BashCore"), Z_Registration_Info_UPackage__Script_BashCore, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA7EC4DBB, 0xA3896AB0));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_BashCore(Z_Construct_UPackage__Script_BashCore, TEXT("/Script/BashCore"), Z_Registration_Info_UPackage__Script_BashCore, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xCA7EEF81, 0x77B6FB77));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

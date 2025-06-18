@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeWinBT_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x8E37647B,
-				0x7773A741,
-				METADATA_PARAMS(0, nullptr)
+				0x678EF6B8,
+				0xF2E481F9,
+				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_WinBT.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_WinBT.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_WinBT(Z_Construct_UPackage__Script_WinBT, TEXT("/Script/WinBT"), Z_Registration_Info_UPackage__Script_WinBT, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x8E37647B, 0x7773A741));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_WinBT(Z_Construct_UPackage__Script_WinBT, TEXT("/Script/WinBT"), Z_Registration_Info_UPackage__Script_WinBT, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x678EF6B8, 0xF2E481F9));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

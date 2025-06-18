@@ -3,8 +3,6 @@
 #include <winrt/Windows.Devices.Bluetooth.GenericAttributeProfile.h>
 #include <vector>
 #include <stdint.h>
-#include "Containers/Array.h"
-#include "Delegates/Delegate.h"
 
 namespace winrt::Windows::Devices::Bluetooth::GenericAttributeProfile
 {

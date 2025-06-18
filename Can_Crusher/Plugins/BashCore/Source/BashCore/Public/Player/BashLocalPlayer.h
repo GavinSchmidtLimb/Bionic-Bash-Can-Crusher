@@ -3,7 +3,6 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "PlayerMeshData.h"
 #include "BaseClasses/LimbitlessLocalPlayer.h"
 #include "Engine/LocalPlayer.h"
 #include "BashLocalPlayer.generated.h"
@@ -58,6 +57,8 @@ public:
 		Mobius = newMobius;
 	}
 
+
+	
 public:
 	int PlayerNum = -1;
 	UPROPERTY()
@@ -69,7 +70,6 @@ public:
 	UPROPERTY(BlueprintReadWrite, Category = "Player Data")
 	int Mobius = 0;
 
-	FPlayerMeshData PlayerMeshData;
 
 };
 

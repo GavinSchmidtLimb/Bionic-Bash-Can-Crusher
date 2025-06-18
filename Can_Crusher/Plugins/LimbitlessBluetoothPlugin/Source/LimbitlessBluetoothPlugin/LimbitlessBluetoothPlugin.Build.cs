@@ -6,7 +6,13 @@ public class LimbitlessBluetoothPlugin : ModuleRules
 {
 	public LimbitlessBluetoothPlugin(ReadOnlyTargetRules Target) : base(Target)
 	{
-		bUsePrecompiled = true;
+		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
+		
+		PublicIncludePaths.AddRange(
+			new string[] {
+				// ... add public include paths required here ...
+			}
+			);
 				
 		
 		PrivateIncludePaths.AddRange(

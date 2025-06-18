@@ -6,7 +6,7 @@ public class BashCore : ModuleRules
 {
 	public BashCore(ReadOnlyTargetRules Target) : base(Target)
 	{
-		bUsePrecompiled = true;
+		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 		
 		PublicIncludePaths.AddRange(
 			new string[] {
@@ -39,7 +39,6 @@ public class BashCore : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
-				"SkeletalMerging"
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);

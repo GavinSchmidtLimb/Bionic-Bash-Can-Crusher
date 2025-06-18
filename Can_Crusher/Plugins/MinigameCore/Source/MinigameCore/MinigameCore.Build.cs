@@ -6,8 +6,8 @@ public class MinigameCore : ModuleRules
 {
 	public MinigameCore(ReadOnlyTargetRules Target) : base(Target)
 	{
-		bUsePrecompiled = true;
-
+		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
+		
 		PublicIncludePaths.AddRange(
 			new string[] {
 			});

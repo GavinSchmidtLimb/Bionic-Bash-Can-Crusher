@@ -5,7 +5,7 @@ public class LimbitlessBTWindows : ModuleRules
 {
     public LimbitlessBTWindows(ReadOnlyTargetRules Target) : base(Target)
     {
-        bUsePrecompiled = true;
+        PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 
         PublicDependencyModuleNames.AddRange(
             new string[]

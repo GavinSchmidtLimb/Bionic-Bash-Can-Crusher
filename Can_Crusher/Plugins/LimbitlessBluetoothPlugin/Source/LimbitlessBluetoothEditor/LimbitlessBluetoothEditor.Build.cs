@@ -4,12 +4,12 @@ public class LimbitlessBluetoothEditor : ModuleRules
 {
     public LimbitlessBluetoothEditor(ReadOnlyTargetRules Target) : base(Target)
     {
-        bUsePrecompiled = true;
+        PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 
         PublicDependencyModuleNames.AddRange(
             new string[]
             {
-                "Core", "Blutility",
+                "Core",
             }
         );
 

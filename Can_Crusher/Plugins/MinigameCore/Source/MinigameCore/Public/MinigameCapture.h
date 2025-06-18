@@ -26,7 +26,7 @@ protected:
 	TObjectPtr<USceneCaptureComponent2D> SceneCapture;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Capture Info")
-	int CaptureNumber{ 0 };
+	int CaptureNumber{ -1 };
 
 	virtual void Tick(float DeltaTime) override;
 

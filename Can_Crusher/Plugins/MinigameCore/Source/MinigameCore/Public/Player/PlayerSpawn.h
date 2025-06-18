@@ -22,10 +22,7 @@ public:
 		meta = (ClampMin = "0", ClampMax = "3"))
 	int Position{ 0 };
 
-	/**
-	 * The number of players that must on the associated team to consider this player spawn
-	 * For example, restricting a player spawn to only work if there are 2 players on a 3v1 minigame
-	 */
+	// The number of players that must be playing to consider this player spawn
 	UPROPERTY(EditInstanceOnly, BlueprintReadWrite, Category = "Spawn Properties",
 		meta = (ClampMin = "1", ClampMax = "4"))
 	int NumPlayersRequired{ 1 };

@@ -2,17 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee21f9a-372f-4913-8ac5-a5c674075e0e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/Blueprints/BP_CanCrusherPlayer_Auto2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Blueprints/BP_CanCrusherPlayer_Auto2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/ObjectPool/BP_Can_Auto1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/ObjectPool/BP_Can_Auto1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/Blueprints/BP_CanCrusherPlayer_Auto1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Blueprints/BP_CanCrusherPlayer_Auto1.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Editor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Editor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-0038281B48999ED3E72F6FA9732B22EB/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-0DD845794AEEEA204CF54FACFBAAA240/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-0F3F3F004D8284DFEC4E748113E94DD4/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-257DBF27460A3FDC1B329A91AA0E0A61/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-2E1414554494553ECC5C2B9A6B67CC39/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-417C65154F6B6E0D621FD1B88C80A44C/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-41A20D5345EC9B999D41C2BA90FDC85B/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-432A50DD45DFCD292C2D98A284E6C8F7/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-48D5513C44F0020A27FCF483DCBB2200/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-4AFE9F65415A572709734EB4760A8E83/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-515FC1DD4AFBA12D0D6DBE9A5BFDF651/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-5D043B954C01A38CA36D67A03B47A235/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-77A21454434C4EE17D566CB54B43D929/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-802567C54924B1BC35F6719E78A9A71E/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-871D1F54488074015FB1ACAEC3A03725/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-92C631B8491A72087EC3479FD3D3CAC6/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-9328DF5549F51791818922B8F00B0905/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-A2BF94DE41B54ACC6A295FBD01D96042/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-A738B5A0488514DEC10D63BAE5974514/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-A8F2C02346B940C64FA1B887B55D84F5/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-BE672FD547F142E27AB9689C6FFA29E6/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-C4C4F00243C73E60B3EE498748F392A5/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-D1C522BC46EA544D79F78FA26F77F1A3/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-D1D1409248FBEF8178B5F9830DF4E247/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-D4D6F1F747E1B86548ACCDB7A55F2844/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-D59032B8486AC8CC8A60D89726C8EF81/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-D85DD0474EC3D5A6D5A5F9A5C4D8E073/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-E142DC3C4A898098D17727983A6C4B3C/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-E66DFC484A5A0ADFF5A8E9A1DF7DD6E6/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-F58B8E854F9DB63F0D253F9C21CF0E96/CrashReportClient.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/2803253109.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WorldState/2803253109.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher-backup-2025.05.22-14.40.31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher-backup-2025.05.22-14.53.23.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher-backup-2025.05.28-20.12.27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher-backup-2025.06.18-17.21.06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher-backup-2025.06.18-18.18.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher-backup-2025.06.18-18.18.55.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher-backup-2025.06.18-18.20.24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher-backup-2025.06.19-14.52.28.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher-backup-2025.06.19-16.38.59.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/Can_Crusher.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_2-backup-2025.05.28-17.57.07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_2-backup-2025.05.28-18.27.33.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_2-backup-2025.05.28-18.37.21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_2-backup-2025.05.29-15.54.41.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_2-backup-2025.06.18-17.21.06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_2-backup-2025.06.18-18.18.24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_2-backup-2025.06.18-18.18.56.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_3-backup-2025.05.28-18.27.31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_3-backup-2025.05.28-18.37.27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_3-backup-2025.06.18-17.21.06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_3-backup-2025.06.18-18.18.24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Can_Crusher_4-backup-2025.06.18-17.21.06.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +70,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_5.1/Engine/Source/Runtime/Engine/Classes/Components/SkeletalMeshComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../Program Files/Epic Games/UE_5.1/Engine/Source/Runtime/Engine/Classes/Sound/SoundWave.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -34,16 +81,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5ee21f9a-372f-4913-8ac5-a5c674075e0e" name="Changes" comment="" />
@@ -53,6 +100,8 @@
       <updated>1750346022558</updated>
       <workItem from="1750346027454" duration="2000" />
       <workItem from="1750347127854" duration="13000" />
+      <workItem from="1750866336469" duration="6000" />
+      <workItem from="1750867658402" duration="1000" />
     </task>
     <servers />
   </component>
